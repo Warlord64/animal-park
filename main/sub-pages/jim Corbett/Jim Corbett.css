@@ -1,0 +1,23 @@
+body{margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    background-image: linear-gradient(to left,red);
+    background-color: aliceblue;
+    }
+    .nav_main{height: 40px;
+    background: rgba(0, 0, 0, 0.884);}
+    
+    .nav_main .nav_span{color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;}
+    
+    .nav_main_right{color: white;
+    margin-left: 90%;
+    padding-top: 10px;}
+    .nav_main_right a{color: white;
+    text-decoration: none;
+    transition:0.3s;
+    }
+    .nav_main_right a:hover{color: rgb(145, 60, 60);
+    }
